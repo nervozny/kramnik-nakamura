@@ -4,9 +4,10 @@ This Python script simulates chess games to investigate winning streaks under di
 
 ## Usage
 
-1. Ensure you have Python installed.
+1. Ensure you have Python installed and dependencies from requirements.txt
 2. Clone this repository.
-3. Run the script using the following command:
+3. Run the script using the following command: python simul.py
 
-```bash
-python simul.py
+# The results after simulating 1000 experiments:
+![Alt text](image.png)
+
