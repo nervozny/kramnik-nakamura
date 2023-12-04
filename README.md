@@ -1,4 +1,3 @@
-{\rtf1}
 # Chess Winning Streaks Simulation
 
 This Python script simulates chess games to investigate winning streaks under different conditions. The simulation explores the relationship between the number of games played, the probability of winning a single game, and the occurrence of winning streaks.
