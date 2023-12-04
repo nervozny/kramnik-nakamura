@@ -10,4 +10,5 @@ This simulation is inspired by recent cheating allegations from the 14th chess w
 
 ## The results after simulating 1000 experiments:
 
-![kramnik](https://github.com/nervozny/kramnik-nakamura/assets/102557512/e81f9fe7-a809-4b64-8d2b-8ad83eb8b36c)
+![kramnik](https://github.com/nervozny/kramnik-nakamura/assets/102557512/6a4ac08e-9684-4fcf-b2cb-db18fe1598a5)
+
