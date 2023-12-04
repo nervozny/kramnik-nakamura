@@ -8,6 +8,6 @@ This Python script simulates chess games to investigate winning streaks under di
 2. Clone this repository.
 3. Run the script using the following command: python simul.py
 
-# The results after simulating 1000 experiments:
-![Alt text](image.png)
+## The results after simulating 1000 experiments:
 
+![kramnik](https://github.com/nervozny/kramnik-nakamura/assets/102557512/e81f9fe7-a809-4b64-8d2b-8ad83eb8b36c)
