@@ -10,3 +10,5 @@ This Python script simulates chess games to investigate winning streaks under di
 
 ```bash
 python simul.py
+
+![Alt text](image.png)
