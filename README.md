@@ -1,6 +1,6 @@
 # Chess Winning Streaks Simulation
 
-This Python script simulates chess games to investigate winning streaks under different conditions. The simulation explores the relationship between the number of games played, the probability of winning a single game, and the occurrence of winning streaks.
+This simulation is inspired by recent cheating allegations from the 14th chess world champion, Vladimir Kramnik, against Hikaru Nakamura. The Python script conducts simulations to explore winning streaks under varied conditions. It utilizes binomial outcomes to model games with specified probabilities of winning.
 
 ## Usage
 
