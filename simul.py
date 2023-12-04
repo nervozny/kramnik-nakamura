@@ -103,7 +103,7 @@ def visualize_results(df_games, confidence_interval=99):
     )
 
     plt.annotate(
-        f"Number of Simulations Conducted: {num_experiments}\nConfidence level: {confidence_interval}",
+        f"Number of Simulations Conducted: {num_experiments}\nConfidence level: {confidence_interval}%",
         xy=(0.5, -0.2),
         xycoords="axes fraction",
         ha="center",
